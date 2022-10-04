@@ -7,4 +7,5 @@
 }
 .item-list {
   margin-bottom: 1rem;
+  max-width: 600px;
 }
